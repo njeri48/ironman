@@ -24,6 +24,9 @@ body{
     position: fixed;
     
 }
+.test{
+    font-size: 30px;
+}
 
 nav h1{
      width: 110px;
@@ -63,7 +66,14 @@ color: whitesmoke;
     font-size:100px;
     font-weight:500;
 }
-button{
+#HOME form{
+    padding: 10px;
+    padding-bottom: 30px;
+    background-color:rgb(243, 236, 236,0.5);
+    width: 200px;
+}
+
+ #HOME form button{
     background-color: black;
     color:white;
     font-size: smaller;
@@ -72,9 +82,7 @@ button{
 .info a{
     padding-left: 30px;
 }
-.social-links a{
-    position: absolute;
-}
+
 #ABOUT{
 width: 100vw;
 height: 100vh;
@@ -196,6 +204,9 @@ form button{
     width: 150px;
     margin: 20px auto 0;
     border-radius: 30px;
+}
+.social-links{
+    size: 100px;
 }
 @media(max-width:500px){
     #HOME{
