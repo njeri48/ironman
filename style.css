@@ -210,7 +210,7 @@ form button{
 }
 @media(max-width:500px){
     #HOME{
-        width: 70vw;
+        width: 120vw;
         height: 70vh;
       
     }
@@ -245,7 +245,7 @@ form button{
     font-size: xx-small;
 }
 #ABOUT{
-    width: 70vw;
+    width: 120vw;
     height: 60vh;
     }
     #ABOUT h1{
@@ -270,7 +270,7 @@ form button{
         top: 650px;
     }
     #SERVICES{
-        width: 70vw;
+        width: 120vw;
         height: 100vh;
     }
     #SERVICES h1{
@@ -315,7 +315,7 @@ form button{
         width:50% ;
     }
     #CONTACT{
-        width: 70vw;
+        width: 120vw;
         height: 70vh;
     }
     .container{
