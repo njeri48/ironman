@@ -255,7 +255,7 @@ form button{
     }
     #ABOUT p{
         margin-left: 50px;
-        padding-top:250px;
+        padding-top:200px;
         font-family:Garamond;
         font-size:12px;
     }
@@ -266,8 +266,8 @@ form button{
         width: 1%;
         height: 20%;
         position: absolute;
-        right: 250px;
-        top: 850px;
+        right: 230px;
+        top: 650px;
     }
     #SERVICES{
         width: 70vw;
